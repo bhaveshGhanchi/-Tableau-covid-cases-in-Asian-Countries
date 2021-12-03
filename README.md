@@ -1,8 +1,13 @@
-# DV_IA2
- Story Telling Covid Cases of Asian Countries
 
-Screenshot of Covid data of Asian Countries
-![image](https://user-images.githubusercontent.com/83581211/144607836-d9b6ace2-661c-4e2b-a2f3-4540babab39a.png)
+
+
+ K.J Somaiya College of Engineering
+ Bhavesh Ghanchi - 16010120071<br/>
+ Roshan Jadhav - 16010120073 <br/>
+ # Storytelling-Data-Visiualization-IA2
+
+
+
 
 ScreenShot of tableau work book
 
@@ -14,4 +19,13 @@ ScreenShot of tableau work book
 ![image](https://user-images.githubusercontent.com/83581211/144608122-f295f3e3-7e06-4a18-9264-c3eb3904941b.png)
 ![image](https://user-images.githubusercontent.com/83581211/144608138-129aeb2e-6b08-4c51-ae4c-5df92e6cc6a3.png)
 
+## Contributors
+
+  - Bhavesh Ghanchi
+  - Roshan Jadhav
+
+
+### Acknowledgement 
+
+We would like to thanks Prof. Vaibhav Vasani and Prof. Swapnil Pawar for the guidance and support throughout the coursework.
 
