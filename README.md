@@ -1,10 +1,6 @@
 
 
-
- K.J Somaiya College of Engineering<br/>
- Bhavesh Ghanchi - 16010120071<br/>
- Roshan Jadhav - 16010120073 <br/>
- # Storytelling-Data-Visiualization-IA2
+ # Storytelling-Data-Visiualization
 
 
 
